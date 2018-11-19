@@ -1,5 +1,5 @@
 {
-  "name": "@findy/react-findy-id",
+  "name": "@keik/react-findy-id",
   "version": "1.1.1",
   "description": "React container for Findy ID.",
   "main": "build/index.js",
